@@ -25,7 +25,7 @@ Tibia came to to a beeping sound and an intermittent red tint. There was a clust
 
 After tinkering with the controls some more, checking the diagnostics log and going through the basic troubleshooting manual in her mind, Tibia came to the conclusion she was dreading. She'd have to break the communication restriction and contact HQ for assistance. This was an emergency without a doubt, and she'd be in the clear in regards to the commu-net use directives, but she couldn't help but recall those thoughts from earlier in the day - her supervisors and coworkers having expected her to call all along, sneering at a conductor too full of herself, playing the ace pilot like in one of her favorite old world audioserials. Had they known about the storm but refused to tell her? Maybe she could make them feel guilty if she played up having been knocked out... either way this would be another botched post; she saw herself leaving her form blank again come the next evaluation cycle, rolling the dice once more... she tapped on the communications panel and initiated the call.
 
-- "Tibia? Thank the Convergence! Have you arrived at Syzygy? I've been worried sick about you, the weather map's a mess all the way there!"
+\- "Tibia? Thank the Convergence! Have you arrived at Syzygy? I've been worried sick about you, the weather map's a mess all the way there!"
 
 This was Aitana, one of the apprentices that'd come with her on this same routemonths prior. That she had been the one to pick up recomforted her a litte, and brought back memories of the camaraderie they'd shared during the trip and their onboarding. Alongside this warmth came some tears, but she was able to hold these back and re-steady her voice; she was glad this was an audio-only channel.
 

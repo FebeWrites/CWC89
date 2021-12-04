@@ -34,6 +34,7 @@ This was Aitana, one of the apprentices that'd come with her on this same routem
 Despite her efforts the words came flooding out in a flurry of short phrases. Aitana interrupted her.
 
 \- "*Wait, you hit yourself? Are you ok? There should be a medkit underneath the-*"
+
 \- "Yes, I know. I'm fine. The Rig is not, though, I'm transferring its diagnostics to you."
 
 She tapped some buttons on the diagnostics panel. Hopefully she'd know what was wrong or be able to run the data through the diagnostics cluster at HQ, which would be much better at identifying the issue. She wondered if she'd be trapped here for another couple of days waiting for someone to come get her.

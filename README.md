@@ -29,12 +29,12 @@ After tinkering with the controls some more, checking the diagnostics log and go
 
 This was Aitana, one of the apprentices that'd come with her on this same routemonths prior. That she had been the one to pick up recomforted her a litte, and brought back memories of the camaraderie they'd shared during the trip and their onboarding. Alongside this warmth came some tears, but she was able to hold these back and re-steady her voice; she was glad this was an audio-only channel.
 
-- "Aitana! The Rig's stuck. The left leg gave out. I tried to yank it out of the snow. I hit myself and just came to. I-"
+\- "Aitana! The Rig's stuck. The left leg gave out. I tried to yank it out of the snow. I hit myself and just came to. I-"
 
 Despite her efforts the words came flooding out in a flurry of short phrases. Aitana interrupted her.
 
-- "Wait, you hit yourself? Are you ok? There should be a medkit underneath the-"
-- "Yes, I know. I'm fine. The Rig is not, though, I'm transferring its diagnostics to you."
+\- "Wait, you hit yourself? Are you ok? There should be a medkit underneath the-"
+\- "Yes, I know. I'm fine. The Rig is not, though, I'm transferring its diagnostics to you."
 
 She tapped some buttons on the diagnostics panel. Hopefully she'd know what was wrong or be able to run the data through the diagnostics cluster at HQ, which would be much better at identifying the issue. She wondered if she'd be trapped her for another couple of days waiting for someone to come get her.
 

@@ -1,4 +1,5 @@
 # CWC89
+## Repurposed
 Creative Writing Challenge #89
 
 The Rig advanced through the snowy terrain, its hydraulics getting increasingly covered in snow as the storm progressed. Much of it would be shaken by the movement and friction of its shiny white bioplastic-coated panels as its digitigrade legs flexed and its weighted shoulders rebalanced its body, but Tibia found herself having to take control of the machine from time to time, placing the mug of hot cocoa she'd been cupping in her hands as well as the blanket she'd covered herself with to the side, shifting into driver position inside the cockpit, and disabling its autonomous mode as she felt its rhythm slow down, the Rig unable to shake off the snow for much longer.
